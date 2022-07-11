@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MWells012
-- 👀 I’m interested in ... muisc, food and traveling
+- 👀 I’m interested in ... music, food and traveling
 - 🌱 I’m currently learning ... condo project underwriting for work and the basics of coding
 - 💞️ I’m looking to collaborate on ... anything that will allow me to learn new skills and ideas
 - 📫 How to reach me ... email, michaelawells@rocketmortgage.com
