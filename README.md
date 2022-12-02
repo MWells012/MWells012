@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MWells012
-- 👀 I’m interested in ... music, food and traveling
-- 🌱 I’m currently learning ... condo project underwriting for work and the basics of coding
+- 👋 Hi, my name is Michaela Wells
+- 👀 I’m interested in ... outside of coding and the world of software I love things like live music, good food and traveling the world
+- 🌱 I’m currently learning ... via a bootcamp the basics of Javascript, HTML, CSS, React, MongoDB, MySQL and the MERN stack
 - 💞️ I’m looking to collaborate on ... anything that will allow me to learn new skills and ideas
 - 📫 How to reach me ... email, mgwells012@gmail.com
 
